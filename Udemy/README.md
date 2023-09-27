@@ -14,4 +14,5 @@
 3. No max length but can be restricted using code sothat user can not send more than the restricted length.
 4. Not being cached or bookmarked. So it is safe for sending sensitive data.
 5. Used for post, update or delete.
+
 ![GET and POST](https://github.com/atiqahammed/Learning-Blogs/blob/main/images/Screenshot%20from%202023-09-28%2001-50-58.png)
